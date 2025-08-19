@@ -1,0 +1,4 @@
+project_id = "ywxburhhgezlmdmsmetv"
+
+[functions.speech-to-speech]
+verify_jwt = true
